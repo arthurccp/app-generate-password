@@ -10,6 +10,16 @@ Bem-vindo ao Gerador de Senhas Seguras! Este aplicativo permite que você gere s
 
 - **Dicas de Segurança:** Fornecemos algumas dicas importantes para ajudá-lo a manter suas senhas seguras e proteger suas informações online.
 
+## Arquitetura e Tecnologias Utilizadas
+
+- **Design Pattern MVP (Model-View-Presenter):** O projeto foi desenvolvido seguindo o padrão de arquitetura MVP para separação clara de responsabilidades entre as camadas do aplicativo, facilitando a manutenção e o teste.
+
+- **Injeção de Dependências:** Foi utilizada a injeção de dependências para fornecer uma arquitetura mais modular e facilitar a substituição de componentes, tornando o código mais limpo e testável.
+
+- **Compatibilidade com Diversos Dispositivos:** O aplicativo foi desenvolvido para abranger uma ampla gama de dispositivos, garantindo uma experiência consistente e otimizada em diferentes tamanhos de tela e configurações de hardware.
+
+- **Refatoração Completa para Otimização de Desempenho:** O projeto passou por uma refatoração completa com foco na otimização da fluidez e desempenho, garantindo uma experiência de usuário ágil e responsiva.
+
 ## Dicas de Segurança
 
 1. **Use Senhas Únicas para Cada Conta:** Evite reutilizar senhas em diferentes sites e serviços. Isso ajuda a evitar que um vazamento de dados em um serviço comprometa suas outras contas.
